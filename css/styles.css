@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #444;
+    background-color: #000;
 }
 .maquina{
     display: flex;
@@ -14,10 +14,11 @@
 .container-top{
   width: 20em;
   height: 21em;
-  background-color: #000;
+  background-color: #555;
   border-top-right-radius: 1em;
   border-top-left-radius: 1em;
   flex-direction: column;
+  display: flex;
 }
 .container-bottom{
   width: 20em;
@@ -26,4 +27,19 @@
   border-bottom-right-radius: 3em;
   border-bottom-left-radius: 1em;
   flex-direction: column;
+}
+.barra-sup{
+  width: 100%;
+  height: 1em;
+  background-color: #065;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+}
+.ext-pantalla{
+  width: 19em;
+  height: 18em;
+  background-color: #506;
+  margin-left: 0.5em;
+  margin-top: 0.5em;
+  border-bottom-right-radius: 1em;
 }
