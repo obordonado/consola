@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #444;
+}
+.maquina{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: row;
+}
+.container-top{
+  width: 20em;
+  height: 21em;
+  background-color: #000;
+  border-top-right-radius: 1em;
+  border-top-left-radius: 1em;
+  flex-direction: column;
+}
+.container-bottom{
+  width: 20em;
+  height: 12em;
+  background-color: rgb(220, 34, 130);
+  border-bottom-right-radius: 3em;
+  border-bottom-left-radius: 1em;
+  flex-direction: column;
+}
