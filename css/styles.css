@@ -329,7 +329,7 @@ margin:0.2em;
 /* DIV IZQUIERDO INFERIOR (BOTONES SELECT Y START */
 .bottom-bottom-left{
   background-color: #333;
-  width: 9.8em;
+  width: 10em;
   height: 4.7em;
   border-bottom-left-radius: 0.6em;
   display: flex;
