@@ -136,6 +136,11 @@ background: linear-gradient(#111, #555);
   background: #065;
   cursor: pointer;
 }
+.cross-horizontal-left:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1em;
+}
 /* CIRCULO ENTRE FLECHAS */
 .cross-horizontal-between{
   width: 1.7em;
@@ -156,6 +161,11 @@ background: linear-gradient(#111, #555);
 .cross-horizontal-right:hover {
   background: #065;
   cursor: pointer;
+}
+.cross-horizontal-right:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1em;
 }
 /* BOTON SUPERIOR VERTICAL */
 .cross-vertical-top{
@@ -183,6 +193,11 @@ background: linear-gradient(#111, #555);
   background: #065;
   cursor: pointer;
 }
+.cross-vertical-up:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1em;
+}
 /* BOTON INFERIOR VERTICAL */
 .cross-vertical-bottom{
   width: 2em;
@@ -208,6 +223,11 @@ background: linear-gradient(#111, #555);
 .cross-vertical-down:hover {
   background: #065;
   cursor: pointer;
+}
+.cross-vertical-down:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1em;
 }
 /* BOTON RESET - ON/OFF */
 .bottom-top-center{
@@ -284,7 +304,7 @@ span:hover {
   justify-content: center;
   background: linear-gradient(145deg, rgb(249, 247, 149), rgb(29, 28, 3));
   box-shadow: 2px 2px 2px 1px rgba(33, 32, 32, 0.75);
-  transition: all .7s ease;
+  transition: all .5s ease;
 
 }
 .btn-horizontal-left:hover {
@@ -292,6 +312,11 @@ span:hover {
   box-shadow: 0 4px 16px rgb(5, 5, 5);
   transition: all 0.3s ease;
   cursor: pointer;
+}
+.btn-horizontal-left:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1.8em;
 }
 /* RESERVANDO ESPACIO TRANSPARENTE ENTRE BOTONES */
 .btn-horizontal-between{
@@ -309,13 +334,18 @@ span:hover {
   justify-content: center;
   background: linear-gradient(145deg, rgb(248, 150, 150), rgb(173, 11, 11));
   box-shadow: 2px 2px 2px 1px rgba(33, 32, 32, 0.75);
-  transition: all .7s ease;
+  transition: all .5s ease;
 }
 .btn-horizontal-right:hover {
   color: rgba(255, 255, 255, 1);
   box-shadow: 0 4px 16px rgb(5, 5, 5);
   transition: all 0.3s ease;
   cursor: pointer;
+}
+.btn-horizontal-right:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1.8em;
 }
 /* DIV VERTICAL BOTON SUPERIOR */
 .btn-vertical-top{
@@ -338,13 +368,18 @@ span:hover {
   justify-content: center;
   background: linear-gradient(145deg, rgb(90, 105, 242), rgb(9, 15, 30));
   box-shadow: 2px 2px 2px 1px rgba(33, 32, 32, 0.75);
-  transition: all .7s ease;
+  transition: all .5s ease;
 }
 .btn-vertical-up:hover {
   color: rgba(255, 255, 255, 1);
   box-shadow: 0 4px 16px rgb(5, 5, 5);
   transition: all 0.3s ease;
   cursor: pointer;
+}
+.btn-vertical-up:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1.8em;
 }
 /* DIV VERTICAL BOTON INFERIOR */
 .btn-vertical-bottom{
@@ -367,13 +402,18 @@ span:hover {
   justify-content: center;
   background:linear-gradient(145deg, rgb(96, 250, 29), rgb(45, 94, 13));
   box-shadow: 2px 2px 2px 1px rgba(33, 32, 32, 0.75);
-  transition: all .7s ease;
+  transition: all .5s ease;
 }
 .btn-vertical-down:hover {
   color: rgba(255, 255, 255, 1);
   box-shadow: 0 4px 16px rgb(5, 5, 5);
   transition: all 0.3s ease;
   cursor: pointer;
+}
+.btn-vertical-down:active {
+  background: rgb(10, 27, 24);
+  width: 1.8em;
+  height: 1.8em;
 }
 /* SUBSECCION INFERIOR (BOTONES SELECT, START Y ALTAVOZ)*/
 .bottom-bottom{
@@ -410,13 +450,18 @@ span:hover {
   padding-top: 2em;
   background: linear-gradient(145deg, #222, #000);
   box-shadow: 2px 2px 2px 1px rgba(33, 32, 32, 0.75);
-  transition: all .7s ease;
+  transition: all .5s ease;
 }
 .select:hover {
   color: rgba(255, 255, 255, 1);
   box-shadow: 0 4px 16px rgb(5, 5, 5);
   transition: all 0.3s ease;
   cursor: pointer;
+}
+.select:active {
+  background: rgb(2, 9, 8);
+  width: 3.6em;
+  height: .6em;
 }
 /* BOTON START */
 .start{
@@ -439,6 +484,11 @@ span:hover {
   box-shadow: 0 4px 16px rgb(5, 5, 5);
   transition: all 0.3s ease;
   cursor: pointer;
+}
+.start:active {
+  background: rgb(2, 9, 8);
+  width: 3.6em;
+  height: .6em;
 }
 /* DIV DERECHO INFERIOR (ALTAVOZ Y FONDO */
 .bottom-bottom-right{
