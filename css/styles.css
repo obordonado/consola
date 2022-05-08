@@ -4,6 +4,13 @@
     padding: 0;
     background-color: rgb(103, 40, 40);
 }
+.parrafo{
+  display: flex;
+  text-align: justify;
+  font-size: 1.2em;
+  background-color: transparent;
+
+}
 .maquina{
     display: flex;
     align-items: center;
