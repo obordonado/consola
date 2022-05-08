@@ -1,9 +1,19 @@
 ### First week project in GeeksHubsAcademy!
 
-> It's coded in <b>HTML and CSS</b> only.
-No working functions just yet -  (Soon to come!)👍<br>
-I hope you enjoy working with its code  as much as I enjoyed writing it.
+> It's coded in <b>HTML, CSS an JAVASCRIPT</b> 👍<br>
+
+> I hope you enjoy working with its code  as much as I enjoyed writing it.
+---
+> Here is a capture of the finished project;
 
 ![Consola](/img/consola.png)
 
->By the way... binary code <b>does</b> say something ;).
+
+---
+
+> Another thing to mention is that all buttons have very nice visual effects, having sound only in the on/off/reset when clicked <b>and</b>, the logo on the screen is constantly rotating to add a dinamic effect. <br>
+>Feel free to use for your own purposes.
+
+>By the way... binary code inserted in html file <b>does</b> say something if you translate from binary ;)
+Thank you for your time!
+Enjoy!
