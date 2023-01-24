@@ -1,7 +1,6 @@
 
 
 <pre>
-<center><img src="./img/Geekshubs.png" style="width:400px;"/></center>
 <center><img src="./img/ubuntu-logo.png" style="width:200px;"/>  <img src="./img/html-js-css.png" style="width:200px;"/></center>
 
 </pre>
